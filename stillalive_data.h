@@ -406,235 +406,235 @@ static const ascii_art_t g_ascii_arts[NUM_ASCII_ARTS] = {
 
 #define NUM_CREDITS 237
 static const char *g_credits[NUM_CREDITS] = {
-    ">LIST PERSONNEL",
+    "> Argument employees",
     "",
     "",
-    "Gautam Babbar",
-    "Ted Backman",
-    "Kelly Bailey",
-    "Jeff Ballinger",
-    "Aaron Barber",
-    "Jeep Barnett",
-    "Jeremy Bennett",
-    "Dan Berger",
-    "Yahn Bernier",
-    "Ken Birdwell",
-    "Derrick Birum",
-    "Mike Blaszczak",
-    "Iestyn Bleasdale\055Shepherd",
-    "Chris Bokitch",
-    "Steve Bond",
-    "Matt Boone",
-    "Antoine Bourdon",
-    "Jamaal Bradley",
-    "Jason Brashill",
-    "Charlie Brown",
-    "Charlie Burgin",
-    "Andrew Burke",
-    "Augusta Butlin",
-    "Julie Caldwell",
-    "Dario Casali",
-    "Chris Chin",
-    "Jess Cliffe",
-    "Phil Co",
-    "John Cook",
-    "Christen Coomer",
-    "Greg Coomer",
-    "Scott Dalton",
-    "Kerry Davis",
-    "Jason Deakins",
-    "Joe Demers",
-    "Ariel Diaz",
-    "Quintin Doroquez",
-    "Jim Dose",
-    "Chris Douglass",
-    "Laura Dubuk",
-    "Mike Dunkle",
-    "Mike Durand",
-    "Mike Dussault",
-    "Dhabih Eng",
-    "Katie Engel",
-    "Chet Faliszek",
-    "Adrian Finol",
-    "Bill Fletcher",
-    "Moby Francke",
-    "Stephane Gaudette",
-    "Kathy Gehrig",
-    "Vitaliy Genkin",
-    "Paul Graham",
-    "Chris Green",
-    "Chris Grinstead",
-    "John Guthrie",
-    "Aaron Halifax",
-    "Reagan Halifax",
-    "Leslie Hall",
-    "Jeff Hameluck",
-    "Joe Han",
-    "Don Holden",
-    "Jason Holtman",
-    "Gray Horsfield",
-    "Keith Huggins",
-    "Jim Hughes",
-    "Jon Huisingh",
-    "Brian Jacobson",
-    "Lars Jensvold",
-    "Erik Johnson",
-    "Jakob Jungels",
-    "Rich Kaethler",
-    "Steve Kalning",
-    "Aaron Kearly",
-    "Iikka Keranen",
-    "David Kircher",
-    "Eric Kirchmer",
-    "Scott Klintworth",
-    "Alden Kroll",
-    "Marc Laidlaw",
-    "Jeff Lane",
-    "Tim Larkin",
-    "Dan LeFree",
-    "Isabelle LeMay",
-    "Tom Leonard",
-    "Jeff Lind",
-    "Doug Lombardi",
-    "Bianca Loomis",
-    "Richard Lord",
-    "Realm Lovejoy",
-    "Randy Lundeen",
-    "Scott Lynch",
-    "Ido Magal",
-    "Nick Maggiore",
-    "John McCaskey",
-    "Patrick McClard",
-    "Steve McClure",
-    "Hamish McKenzie",
-    "Gary McTaggart",
-    "Jason Mitchell",
-    "Mike Morasky",
-    "John Morello II",
-    "Bryn Moslow",
-    "Arsenio Navarro",
-    "Gabe Newell",
-    "Milton Ngan",
-    "Jake Nicholson",
-    "Martin Otten",
-    "Nick Papineau",
-    "Karen Prell",
-    "Bay Raitt",
-    "Tristan Reidford",
-    "Alfred Reynolds",
-    "Matt Rhoten",
-    "Garret Rickey",
-    "Dave Riller",
-    "Elan Ruskin",
-    "Matthew Russell",
-    "Jason Ruymen",
-    "David Sawyer",
-    "Marc Scaparro",
-    "Wade Schin",
-    "Matthew Scott",
-    "Aaron Seeler",
-    "Jennifer Seeley",
-    "Taylor Sherman",
-    "Eric Smith",
-    "Jeff Sorensen",
-    "David Speyrer",
-    "Jay Stelly",
-    "Jeremy Stone",
-    "Eric Strand",
-    "Kim Swift",
-    "Kelly Thornton",
-    "Eric Twelker",
-    "Carl Uhlman",
-    "Doug Valente",
-    "Bill Van Buren",
-    "Gabe Van Engel",
-    "Alex Vlachos",
-    "Robin Walker",
-    "Joshua Weier",
-    "Andrea Wicklund",
-    "Greg Winkler",
-    "Erik Wolpaw",
-    "Doug Wood",
-    "Matt T. Wood",
-    "Danika Wright",
-    "Matt Wright",
-    "Shawn Zabecki",
-    "Torsten Zabka ",
-    "",
-    "",
-    "",
-    "",
-    "'Still Alive' by:",
-    "Jonathan Coulton",
-    "",
-    "",
-    "",
-    "Voices:",
-    "Ellen McLain \055 GlaDOS, Turrets",
-    "Mike Patton \055 THE ANGER SPHERE",
-    "",
-    "",
-    "",
-    "Voice Casting:",
-    "Shana LandsburgTeri Fiddleman",
+    "You purpleGautam Babar",
+    "Ted Hickey",
+    "Song: Cicero",
+    "Marcus cicero",
+    "The countrymen are barbarians",
+    "Ford Fredericks",
+    "Jeremy Virgil Yes Maru",
+    "Berger, among others",
+    "My  daughter Bernier",
+    "A Yukon Beetle",
+    "Purple Derek Bryan",
+    "need for Lasik",
+    "Passtor Austin Blessdale,",
+    "Birch",
+    "Steve Sighed",
+    "I am a child",
+    "O Aminnis Burn",
+    "Bradley beauty",
+    "Bouncy bouncy",
+    "You are Charlie Brown",
+    "Daniel\055s four Athando",
+    "Andres Cicero",
+    "Berlin in August",
+    "You John Called Well",
+    "I wonder if it\055s ly",
+    "Chris Chin Yes",
+    "Euges Cliff Euges Cliff Euges Cliff",
+    "often they play rock Co",
+    "John Coca-Cola",
+    "4. Saint Anchoristin",
+    "Yahangrup Gupta",
+    "We did the Tattoo Token",
+    "Missa Cicero",
+    "Jaxus doxin",
+    "Joe Joe E. endlessly unfairness",
+    "(2 Dias (Diaz Ariel)",
+    "Prophecy",
+    "Tetu fate",
+    "Fifth Twenty-fifth",
+    "Marcus hyena",
+    "In deep depth",
+    "Mike Dus is intimidating",
+    "Elective angon",
+    "Katie Gospel",
+    "Fal0 Falo O False Health",
+    "Adenosine phenol",
+    "Well, Flower",
+    "Carl of france",
+    "Vanity Impressions Stefano",
+    "Stay",
+    "Ears of female limbs",
+    "E-Apple Gran",
+    "green half an acre",
+    "Chris is rude",
+    "YO YOU DUCHET GORINGS",
+    "In europa universalis Halifax",
+    "UF Free Gang Holly",
+    "Stay at home",
+    "Wonderful country",
+    "John",
+    "Oh HOLDEN",
+    "Jason in vulnerability",
+    "grey Hose Farn",
+    "Huggins  Clinical Center",
+    "Hughes feminine plural",
+    "He who has many wives",
+    "Hard nosed lazy Jebson",
+    "a10 Eulers John Selab",
+    "Eric Cicero",
+    "Jungle tree",
+    "The good Kettler",
+    "Proper communication",
+    "Take this Aaron",
+    "IKEA Iran",
+    "David's bachelor's degree",
+    "EU York which is Kirkmer",
+    "US Coat Dress",
+    "Geely Fish Crawl",
+    "A woman with a bucket",
+    "The principle of Ajjaf",
+    "Oh, you guys",
+    "Lee, go free;",
+    "I'm UME IB. His money",
+    "Tommy Tom Leonard",
+    "Half of London",
+    "French dog",
+    "Gambinski will rise",
+    "Richard Plastic Terrarium",
+    "Realm of portland",
+    "London Youth Hostel",
+    "School lunch",
+    "O Miguel",
+    "This is nice",
+    "We are John Mick Caskey",
+    "Mac - Mac Card (Patrick Mac Card)",
+    "Steve McCulture",
+    "Always McKenzie",
+    "Kentucky McTigart",
+    "Jason Cicero",
+    "Apps are Mike Mursky",
+    "According to the head of John Number",
+    "Dad",
+    "Ants E-A-Arsenal",
+    "Coffe Newell",
+    "The Milton Paradox",
+    "Oh, Yuki Ni Ko sin.",
+    "OrO Oron Imran",
+    "Nick Bow Tie",
+    "Omar Elis Perl",
+    "My boss",
+    "Not Notre Dame Redford",
+    "Wolf Word also found",
+    "M mt rwtn",
+    "Food recipies",
+    "UVD Trailer",
+    "Evil Preston",
+    "Matthew Cicero",
+    "Jason is mine",
+    "Good Morning David",
+    "Ski paddle brand",
+    "Shin of Fort Monguwa",
+    "Oh, Emma the princess",
+    "Cow hair",
+    "Sally is alive",
+    "the moon",
+    "Oh oh, Dianna Eric (an an an",
+    "Jeff Cicero",
+    "Shout at David",
+    "Be steel",
+    "Knowledge Jeremy",
+    "Irish aspirin",
+    "Kim Cicero",
+    "Dayton Rambo Inia",
+    "Look at the Iraqi submarine",
+    "No ka acrylic",
+    "Dog variegated",
+    "Pain Brain",
+    "American Gibby",
+    "Tights Lewis Alex Alex",
+    "Europe Walker",
+    "Huh",
+    "Underwear",
+    "Greek Australia",
+    "ricO EO Eric Carroll Wallpaper",
+    "But equal to alba",
+    "Mattie lignum-Shirt",
+    "Danika Cicero",
+    "Matt Cicero",
+    "Saint Zubecky",
+    "Beggar Bess",
     "",
     "",
     "",
     "",
-    "Voice Recording:",
-    "Pure Audio, Seattle, WA",
+    "",
+    "'Alive Alive' by:",
+    "Ma Jonathan Orim",
+    "",
+    "",
+    "",
+    "Leo:",
+    "Cornelius McLain \055 GlaDOS, turtles",
+    "Mike Patton \055 Angry Planet",
+    "",
+    "",
+    "",
+    "The Voice of Casting:",
+    "Shana religiosis \\ Thierry Feminine",
     "",
     "",
     "",
     "",
-    "Voice recording",
-    "scheduling and logistics:",
-    "Pat Cockburn, Pure Audio",
+    "I am writing languages",
+    "Pre-oh-oh, see",
     "",
     "",
     "",
     "",
-    "Translations:",
-    "SDL",
+    "The release is known",
+    "Shadow Controlling and Attack:",
+    "Patrick Cockburn, 'The Sacred Videotape'",
     "",
     "",
     "",
     "",
-    "Crack Legal Team:",
-    "Liam Lavery",
-    "Karl Quackenbush",
-    "Kristen Boraas",
-    "Kevin Rosenfield",
-    "Alan Bruggeman",
-    "Dennis Tessier",
+    "Italian",
+    "Oh, seeker",
     "",
     "",
     "",
-    "Thanks for the use of their face:",
-    "Alesia Glidewell \055 Chell",
+    "",
+    "Break the legal team;",
+    "Lama and lam",
+    "Coconut Coconut Coconut",
+    "Iowa Christian Boras",
+    "Ron Fyffe flooded the corner",
+    "Hello leaf",
+    "Son of the Lady, and Dennis",
     "",
     "",
     "",
-    "Special thanks to everyone at:",
-    "Alienware",
-    "ATI",
-    "Dell",
-    "Falcon Northwest",
-    "Havok",
-    "SOFTIMAGE",
-    "and Don Kemmis, SLK Technologies",
+    "Thank you for your face:",
+    "Gladewell Alicia, things are going well",
     "",
     "",
     "",
+    "Tank U Veri Mach,",
+    "Sanitary ware",
+    "that ice",
+    "Made up",
+    "The eagle of the air",
+    "Haakuuk",
+    "Its software",
+    "Winnie the Cam; Magnus Carlson Technologies",
     "",
     "",
     "",
     "",
     "",
     "",
-    "THANK YOU FOR PARTICIPATING",
-    "IN THIS",
-    "ENRICHMENT CENTER ACTIVITY!!",
+    "",
+    "",
+    "",
+    "Thank you for working with this",
+    "money launderer!",
+    "",
     "",
     "",
     "",
@@ -672,7 +672,7 @@ static const lyric_item_t g_c0_items[26] = {
         .add_space = 1,
         .art_id = ART_NONE,
         .is_play_game = 0,
-        .text = "Forms FORM\05529827281\05512:"
+        .text = "\05529827281\05512 Farm Farm;"
     },
     {
         .is_br = 0,
@@ -682,7 +682,7 @@ static const lyric_item_t g_c0_items[26] = {
         .add_space = 1,
         .art_id = ART_NONE,
         .is_play_game = 0,
-        .text = "Test Assessment Report"
+        .text = "Angel of Testing"
     },
     {
         .is_br = 1,
@@ -712,7 +712,7 @@ static const lyric_item_t g_c0_items[26] = {
         .add_space = 1,
         .art_id = ART_NONE,
         .is_play_game = 0,
-        .text = "This was a triumph."
+        .text = "This is the victory"
     },
     {
         .is_br = 0,
@@ -722,7 +722,7 @@ static const lyric_item_t g_c0_items[26] = {
         .add_space = 1,
         .art_id = ART_NONE,
         .is_play_game = 0,
-        .text = "I'm making a note here:"
+        .text = "That is"
     },
     {
         .is_br = 0,
@@ -732,7 +732,7 @@ static const lyric_item_t g_c0_items[26] = {
         .add_space = 1,
         .art_id = ART_NONE,
         .is_play_game = 0,
-        .text = "HUGE SUCCESS."
+        .text = "Queen Victoria"
     },
     {
         .is_br = 0,
@@ -742,7 +742,7 @@ static const lyric_item_t g_c0_items[26] = {
         .add_space = 1,
         .art_id = ART_NONE,
         .is_play_game = 0,
-        .text = "It's hard to overstate"
+        .text = "It is very difficult"
     },
     {
         .is_br = 0,
@@ -752,7 +752,7 @@ static const lyric_item_t g_c0_items[26] = {
         .add_space = 1,
         .art_id = ART_NONE,
         .is_play_game = 0,
-        .text = "my satisfaction."
+        .text = "to be comfortable"
     },
     {
         .is_br = 0,
@@ -762,7 +762,7 @@ static const lyric_item_t g_c0_items[26] = {
         .add_space = 1,
         .art_id = 0,
         .is_play_game = 0,
-        .text = "Aperture Science"
+        .text = "Scientific knowledge"
     },
     {
         .is_br = 0,
@@ -772,7 +772,7 @@ static const lyric_item_t g_c0_items[26] = {
         .add_space = 1,
         .art_id = ART_NONE,
         .is_play_game = 0,
-        .text = "We do what we must"
+        .text = "We need what we need"
     },
     {
         .is_br = 0,
@@ -792,17 +792,17 @@ static const lyric_item_t g_c0_items[26] = {
         .add_space = 1,
         .art_id = ART_NONE,
         .is_play_game = 0,
-        .text = "we can."
+        .text = "we can afford it"
     },
     {
         .is_br = 0,
         .start_ms = 31930,
         .dur_ms = 1550,
-        .append_br = 0,
+        .append_br = 1,
         .add_space = 1,
         .art_id = ART_NONE,
         .is_play_game = 0,
-        .text = "For the good"
+        .text = "Good for"
     },
     {
         .is_br = 0,
@@ -812,7 +812,7 @@ static const lyric_item_t g_c0_items[26] = {
         .add_space = 1,
         .art_id = ART_NONE,
         .is_play_game = 0,
-        .text = "of all of us."
+        .text = "all of us."
     },
     {
         .is_br = 0,
@@ -822,7 +822,7 @@ static const lyric_item_t g_c0_items[26] = {
         .add_space = 1,
         .art_id = 5,
         .is_play_game = 0,
-        .text = "Except the ones who are dead."
+        .text = "Except for the dead."
     },
     {
         .is_br = 0,
@@ -842,7 +842,7 @@ static const lyric_item_t g_c0_items[26] = {
         .add_space = 1,
         .art_id = 0,
         .is_play_game = 0,
-        .text = "But there's no sense crying"
+        .text = "You don't have to worry"
     },
     {
         .is_br = 0,
@@ -852,7 +852,7 @@ static const lyric_item_t g_c0_items[26] = {
         .add_space = 1,
         .art_id = ART_NONE,
         .is_play_game = 0,
-        .text = "over every mistake."
+        .text = "about that"
     },
     {
         .is_br = 0,
@@ -862,7 +862,7 @@ static const lyric_item_t g_c0_items[26] = {
         .add_space = 1,
         .art_id = ART_NONE,
         .is_play_game = 0,
-        .text = "You just keep on trying"
+        .text = "We are still trying"
     },
     {
         .is_br = 0,
@@ -872,7 +872,7 @@ static const lyric_item_t g_c0_items[26] = {
         .add_space = 1,
         .art_id = ART_NONE,
         .is_play_game = 0,
-        .text = "till you run out of"
+        .text = "utill you run out of"
     },
     {
         .is_br = 0,
@@ -882,7 +882,7 @@ static const lyric_item_t g_c0_items[26] = {
         .add_space = 1,
         .art_id = ART_NONE,
         .is_play_game = 0,
-        .text = "cake."
+        .text = "cookies."
     },
     {
         .is_br = 0,
@@ -892,7 +892,7 @@ static const lyric_item_t g_c0_items[26] = {
         .add_space = 1,
         .art_id = 4,
         .is_play_game = 0,
-        .text = "And the Science gets done."
+        .text = "And the Science has made"
     },
     {
         .is_br = 0,
@@ -902,7 +902,7 @@ static const lyric_item_t g_c0_items[26] = {
         .add_space = 1,
         .art_id = ART_NONE,
         .is_play_game = 0,
-        .text = "And you make a neat gun."
+        .text = "and made a clean tool"
     },
     {
         .is_br = 0,
@@ -912,7 +912,7 @@ static const lyric_item_t g_c0_items[26] = {
         .add_space = 1,
         .art_id = 0,
         .is_play_game = 0,
-        .text = "For the people who are"
+        .text = "For the people, by"
     },
     {
         .is_br = 0,
@@ -922,7 +922,7 @@ static const lyric_item_t g_c0_items[26] = {
         .add_space = 1,
         .art_id = ART_NONE,
         .is_play_game = 0,
-        .text = "still alive."
+        .text = "Shijo Booth"
     }
 };
 
@@ -935,7 +935,7 @@ static const lyric_item_t g_c1_items[33] = {
         .add_space = 1,
         .art_id = ART_NONE,
         .is_play_game = 0,
-        .text = "Forms FORM\05555551\0555:"
+        .text = "Napa Farmers, 55551-5"
     },
     {
         .is_br = 0,
@@ -945,7 +945,7 @@ static const lyric_item_t g_c1_items[33] = {
         .add_space = 1,
         .art_id = ART_NONE,
         .is_play_game = 0,
-        .text = "Personnel File Addendum:"
+        .text = "Human-centered muscles"
     },
     {
         .is_br = 1,
@@ -965,7 +965,7 @@ static const lyric_item_t g_c1_items[33] = {
         .add_space = 1,
         .art_id = ART_NONE,
         .is_play_game = 0,
-        .text = "Dear <<Subject Name Here>>,"
+        .text = "Aloha <<Name of Things Here>>,"
     },
     {
         .is_br = 1,
@@ -985,7 +985,7 @@ static const lyric_item_t g_c1_items[33] = {
         .add_space = 1,
         .art_id = ART_NONE,
         .is_play_game = 0,
-        .text = "I'm not even angry."
+        .text = "I am angry."
     },
     {
         .is_br = 0,
@@ -995,7 +995,7 @@ static const lyric_item_t g_c1_items[33] = {
         .add_space = 1,
         .art_id = ART_NONE,
         .is_play_game = 0,
-        .text = "I'm being"
+        .text = "I"
     },
     {
         .is_br = 0,
@@ -1005,7 +1005,7 @@ static const lyric_item_t g_c1_items[33] = {
         .add_space = 1,
         .art_id = ART_NONE,
         .is_play_game = 0,
-        .text = "so"
+        .text = ""
     },
     {
         .is_br = 0,
@@ -1015,7 +1015,7 @@ static const lyric_item_t g_c1_items[33] = {
         .add_space = 1,
         .art_id = ART_NONE,
         .is_play_game = 0,
-        .text = "sincere"
+        .text = ""
     },
     {
         .is_br = 0,
@@ -1025,7 +1025,7 @@ static const lyric_item_t g_c1_items[33] = {
         .add_space = 1,
         .art_id = ART_NONE,
         .is_play_game = 0,
-        .text = "right now."
+        .text = "honest"
     },
     {
         .is_br = 0,
@@ -1035,57 +1035,57 @@ static const lyric_item_t g_c1_items[33] = {
         .add_space = 1,
         .art_id = ART_NONE,
         .is_play_game = 0,
-        .text = "Even"
+        .text = "It is not,"
     },
     {
         .is_br = 0,
         .start_ms = 14648,
         .dur_ms = 1347,
         .append_br = 0,
-        .add_space = 1,
+        .add_space = 0,
         .art_id = ART_NONE,
         .is_play_game = 0,
-        .text = "though you"
+        .text = "however,"
     },
     {
         .is_br = 0,
         .start_ms = 15995,
         .dur_ms = 488,
         .append_br = 0,
-        .add_space = 1,
+        .add_space = 0,
         .art_id = 7,
         .is_play_game = 0,
-        .text = "broke"
+        .text = "be a breaker of"
     },
     {
         .is_br = 0,
         .start_ms = 16483,
         .dur_ms = 998,
-        .append_br = 1,
-        .add_space = 1,
+        .append_br = 0,
+        .add_space = 0,
         .art_id = ART_NONE,
         .is_play_game = 0,
-        .text = "my heart."
+        .text = "my heart,"
     },
     {
         .is_br = 0,
         .start_ms = 17481,
         .dur_ms = 325,
         .append_br = 0,
-        .add_space = 1,
+        .add_space = 0,
         .art_id = ART_NONE,
         .is_play_game = 0,
-        .text = "And"
+        .text = "my master,"
     },
     {
         .is_br = 0,
         .start_ms = 17806,
         .dur_ms = 488,
         .append_br = 0,
-        .add_space = 1,
+        .add_space = 0,
         .art_id = ART_NONE,
         .is_play_game = 0,
-        .text = "killed"
+        .text = "and he shall be"
     },
     {
         .is_br = 0,
@@ -1095,7 +1095,7 @@ static const lyric_item_t g_c1_items[33] = {
         .add_space = 1,
         .art_id = ART_NONE,
         .is_play_game = 0,
-        .text = "me."
+        .text = "to me to kill?"
     },
     {
         .is_br = 0,
@@ -1105,17 +1105,17 @@ static const lyric_item_t g_c1_items[33] = {
         .add_space = 1,
         .art_id = 2,
         .is_play_game = 0,
-        .text = "And tore me to pieces."
+        .text = "I was crushed"
     },
     {
         .is_br = 0,
         .start_ms = 24822,
         .dur_ms = 1440,
-        .append_br = 0,
+        .append_br = 1,
         .add_space = 1,
         .art_id = ART_NONE,
         .is_play_game = 0,
-        .text = "And threw every piece"
+        .text = "And cast it"
     },
     {
         .is_br = 0,
@@ -1135,7 +1135,7 @@ static const lyric_item_t g_c1_items[33] = {
         .add_space = 1,
         .art_id = 10,
         .is_play_game = 0,
-        .text = "a fire."
+        .text = "drawers"
     },
     {
         .is_br = 0,
@@ -1145,7 +1145,7 @@ static const lyric_item_t g_c1_items[33] = {
         .add_space = 1,
         .art_id = ART_NONE,
         .is_play_game = 0,
-        .text = "As they burned"
+        .text = "When burned"
     },
     {
         .is_br = 0,
@@ -1155,7 +1155,7 @@ static const lyric_item_t g_c1_items[33] = {
         .add_space = 1,
         .art_id = ART_NONE,
         .is_play_game = 0,
-        .text = "it hurt because"
+        .text = "on her troublesome"
     },
     {
         .is_br = 0,
@@ -1165,7 +1165,7 @@ static const lyric_item_t g_c1_items[33] = {
         .add_space = 1,
         .art_id = 8,
         .is_play_game = 0,
-        .text = "I was so happy for you!"
+        .text = "I am very happy with"
     },
     {
         .is_br = 0,
@@ -1175,7 +1175,7 @@ static const lyric_item_t g_c1_items[33] = {
         .add_space = 1,
         .art_id = ART_NONE,
         .is_play_game = 0,
-        .text = "Now these points of data"
+        .text = "This data is"
     },
     {
         .is_br = 0,
@@ -1185,7 +1185,7 @@ static const lyric_item_t g_c1_items[33] = {
         .add_space = 1,
         .art_id = ART_NONE,
         .is_play_game = 0,
-        .text = "make a beautiful line."
+        .text = "now a good line."
     },
     {
         .is_br = 0,
@@ -1195,7 +1195,7 @@ static const lyric_item_t g_c1_items[33] = {
         .add_space = 1,
         .art_id = ART_NONE,
         .is_play_game = 0,
-        .text = "And we're out of beta."
+        .text = "Now that we have a beta version,"
     },
     {
         .is_br = 0,
@@ -1205,7 +1205,7 @@ static const lyric_item_t g_c1_items[33] = {
         .add_space = 1,
         .art_id = ART_NONE,
         .is_play_game = 0,
-        .text = "We're releasing on time."
+        .text = "we release it them later"
     },
     {
         .is_br = 0,
@@ -1215,7 +1215,7 @@ static const lyric_item_t g_c1_items[33] = {
         .add_space = 1,
         .art_id = 2,
         .is_play_game = 0,
-        .text = "So I'm GLaD. I got burned."
+        .text = "So I'm glad I burned something"
     },
     {
         .is_br = 0,
@@ -1225,7 +1225,7 @@ static const lyric_item_t g_c1_items[33] = {
         .add_space = 1,
         .art_id = 4,
         .is_play_game = 0,
-        .text = "Think of all the things we learned"
+        .text = "Think about what we learned"
     },
     {
         .is_br = 0,
@@ -1235,7 +1235,7 @@ static const lyric_item_t g_c1_items[33] = {
         .add_space = 1,
         .art_id = 0,
         .is_play_game = 0,
-        .text = "for the people who are"
+        .text = "About people -"
     },
     {
         .is_br = 0,
@@ -1245,7 +1245,7 @@ static const lyric_item_t g_c1_items[33] = {
         .add_space = 1,
         .art_id = ART_NONE,
         .is_play_game = 0,
-        .text = "still"
+        .text = "Shijo"
     },
     {
         .is_br = 0,
@@ -1255,7 +1255,7 @@ static const lyric_item_t g_c1_items[33] = {
         .add_space = 1,
         .art_id = ART_NONE,
         .is_play_game = 0,
-        .text = "alive."
+        .text = "Booth"
     }
 };
 
@@ -1268,7 +1268,7 @@ static const lyric_item_t g_c2_items[34] = {
         .add_space = 1,
         .art_id = ART_NONE,
         .is_play_game = 0,
-        .text = "Forms FORM\05555551\0556:"
+        .text = "Aziza Farm-6 \05555551:"
     },
     {
         .is_br = 0,
@@ -1278,7 +1278,7 @@ static const lyric_item_t g_c2_items[34] = {
         .add_space = 1,
         .art_id = ART_NONE,
         .is_play_game = 0,
-        .text = "Personnel File Addendum Addendum:"
+        .text = "I've added an optimistic personality"
     },
     {
         .is_br = 1,
@@ -1298,7 +1298,7 @@ static const lyric_item_t g_c2_items[34] = {
         .add_space = 1,
         .art_id = ART_NONE,
         .is_play_game = 0,
-        .text = "One last thing:"
+        .text = "In your duties;"
     },
     {
         .is_br = 1,
@@ -1318,7 +1318,7 @@ static const lyric_item_t g_c2_items[34] = {
         .add_space = 1,
         .art_id = ART_NONE,
         .is_play_game = 0,
-        .text = "Go ahead and leave"
+        .text = "You want to leave "
     },
     {
         .is_br = 0,
@@ -1335,7 +1335,7 @@ static const lyric_item_t g_c2_items[34] = {
         .start_ms = 8409,
         .dur_ms = 534,
         .append_br = 0,
-        .add_space = 1,
+        .add_space = 0,
         .art_id = ART_NONE,
         .is_play_game = 0,
         .text = "I think"
@@ -1348,24 +1348,24 @@ static const lyric_item_t g_c2_items[34] = {
         .add_space = 1,
         .art_id = ART_NONE,
         .is_play_game = 0,
-        .text = "I prefer"
+        .text = "I like"
     },
     {
         .is_br = 0,
         .start_ms = 10127,
         .dur_ms = 1022,
         .append_br = 0,
-        .add_space = 1,
+        .add_space = 0,
         .art_id = ART_NONE,
         .is_play_game = 0,
-        .text = "to stay"
+        .text = "it"
     },
     {
         .is_br = 0,
         .start_ms = 11149,
         .dur_ms = 232,
         .append_br = 0,
-        .add_space = 0,
+        .add_space = 1,
         .art_id = ART_NONE,
         .is_play_game = 0,
         .text = "in"
@@ -1398,7 +1398,7 @@ static const lyric_item_t g_c2_items[34] = {
         .add_space = 1,
         .art_id = ART_NONE,
         .is_play_game = 0,
-        .text = "be you'll find someone else"
+        .text = "be you can find someone"
     },
     {
         .is_br = 0,
@@ -1425,10 +1425,10 @@ static const lyric_item_t g_c2_items[34] = {
         .start_ms = 21193,
         .dur_ms = 325,
         .append_br = 0,
-        .add_space = 1,
+        .add_space = 0,
         .art_id = 6,
         .is_play_game = 0,
-        .text = "Black"
+        .text = "Mesa"
     },
     {
         .is_br = 0,
@@ -1438,7 +1438,7 @@ static const lyric_item_t g_c2_items[34] = {
         .add_space = 0,
         .art_id = ART_NONE,
         .is_play_game = 0,
-        .text = "Mesa"
+        .text = "Black"
     },
     {
         .is_br = 0,
@@ -1458,7 +1458,7 @@ static const lyric_item_t g_c2_items[34] = {
         .add_space = 1,
         .art_id = ART_NONE,
         .is_play_game = 0,
-        .text = "THAT WAS A JOKE."
+        .text = "It's funny,"
     },
     {
         .is_br = 0,
@@ -1468,7 +1468,7 @@ static const lyric_item_t g_c2_items[34] = {
         .add_space = 1,
         .art_id = ART_NONE,
         .is_play_game = 0,
-        .text = "FAT"
+        .text = "hahaha,"
     },
     {
         .is_br = 0,
@@ -1478,7 +1478,7 @@ static const lyric_item_t g_c2_items[34] = {
         .add_space = 1,
         .art_id = ART_NONE,
         .is_play_game = 0,
-        .text = "CHANCE."
+        .text = "time consuming oil"
     },
     {
         .is_br = 0,
@@ -1488,7 +1488,7 @@ static const lyric_item_t g_c2_items[34] = {
         .add_space = 0,
         .art_id = ART_NONE,
         .is_play_game = 0,
-        .text = "Anyway"
+        .text = "However"
     },
     {
         .is_br = 0,
@@ -1498,7 +1498,7 @@ static const lyric_item_t g_c2_items[34] = {
         .add_space = 1,
         .art_id = 1,
         .is_play_game = 0,
-        .text = ", this cake is great."
+        .text = ",this is a great cake"
     },
     {
         .is_br = 0,
@@ -1508,7 +1508,7 @@ static const lyric_item_t g_c2_items[34] = {
         .add_space = 1,
         .art_id = ART_NONE,
         .is_play_game = 0,
-        .text = "It's so delicious and moist."
+        .text = "So is fresh water"
     },
     {
         .is_br = 0,
@@ -1518,7 +1518,7 @@ static const lyric_item_t g_c2_items[34] = {
         .add_space = 1,
         .art_id = 11,
         .is_play_game = 0,
-        .text = "Look at me still talking"
+        .text = "Look at me as i keep talking"
     },
     {
         .is_br = 0,
@@ -1528,7 +1528,7 @@ static const lyric_item_t g_c2_items[34] = {
         .add_space = 1,
         .art_id = 5,
         .is_play_game = 0,
-        .text = "when there's Science to do."
+        .text = "about when I need to do science"
     },
     {
         .is_br = 0,
@@ -1538,7 +1538,7 @@ static const lyric_item_t g_c2_items[34] = {
         .add_space = 1,
         .art_id = 0,
         .is_play_game = 0,
-        .text = "When I look out there,"
+        .text = "When I look there,"
     },
     {
         .is_br = 0,
@@ -1548,7 +1548,7 @@ static const lyric_item_t g_c2_items[34] = {
         .add_space = 1,
         .art_id = ART_NONE,
         .is_play_game = 0,
-        .text = "it makes me GLaD I'm not you."
+        .text = "he likes me, I'm not you"
     },
     {
         .is_br = 0,
@@ -1558,7 +1558,7 @@ static const lyric_item_t g_c2_items[34] = {
         .add_space = 1,
         .art_id = 4,
         .is_play_game = 0,
-        .text = "I've experiments to run."
+        .text = "You can find more information"
     },
     {
         .is_br = 0,
@@ -1568,7 +1568,7 @@ static const lyric_item_t g_c2_items[34] = {
         .add_space = 1,
         .art_id = 2,
         .is_play_game = 0,
-        .text = "There is research to be done."
+        .text = "on our website"
     },
     {
         .is_br = 0,
@@ -1578,17 +1578,17 @@ static const lyric_item_t g_c2_items[34] = {
         .add_space = 1,
         .art_id = 0,
         .is_play_game = 0,
-        .text = "On the people who are"
+        .text = "To Judy, on behalf of the"
     },
     {
         .is_br = 0,
         .start_ms = 48847,
         .dur_ms = 348,
         .append_br = 0,
-        .add_space = 1,
+        .add_space = 0,
         .art_id = ART_NONE,
         .is_play_game = 0,
-        .text = "still"
+        .text = "Shiju"
     },
     {
         .is_br = 0,
@@ -1598,7 +1598,7 @@ static const lyric_item_t g_c2_items[34] = {
         .add_space = 1,
         .art_id = ART_NONE,
         .is_play_game = 0,
-        .text = "alive."
+        .text = "booth"
     }
 };
 
@@ -1641,7 +1641,7 @@ static const lyric_item_t g_c3_items[23] = {
         .add_space = 0,
         .art_id = ART_CLEAR,
         .is_play_game = 0,
-        .text = "PS: "
+        .text = "me?: "
     },
     {
         .is_br = 0,
@@ -1651,7 +1651,7 @@ static const lyric_item_t g_c3_items[23] = {
         .add_space = 1,
         .art_id = ART_NONE,
         .is_play_game = 0,
-        .text = "And believe me I am"
+        .text = "I'm sorry to"
     },
     {
         .is_br = 0,
@@ -1661,7 +1661,7 @@ static const lyric_item_t g_c3_items[23] = {
         .add_space = 1,
         .art_id = ART_NONE,
         .is_play_game = 0,
-        .text = "still alive."
+        .text = "hear that"
     },
     {
         .is_br = 0,
@@ -1671,7 +1671,7 @@ static const lyric_item_t g_c3_items[23] = {
         .add_space = 0,
         .art_id = ART_NONE,
         .is_play_game = 0,
-        .text = "PPS: "
+        .text = "Industry: "
     },
     {
         .is_br = 0,
@@ -1681,7 +1681,7 @@ static const lyric_item_t g_c3_items[23] = {
         .add_space = 1,
         .art_id = ART_NONE,
         .is_play_game = 0,
-        .text = "I'm doing Science and I'm"
+        .text = "I make fun of his science and"
     },
     {
         .is_br = 0,
@@ -1691,17 +1691,17 @@ static const lyric_item_t g_c3_items[23] = {
         .add_space = 1,
         .art_id = ART_NONE,
         .is_play_game = 0,
-        .text = "still alive."
+        .text = "kill him"
     },
     {
         .is_br = 0,
         .start_ms = 7996,
         .dur_ms = 175,
-        .append_br = 0,
-        .add_space = 0,
+        .append_br = 1,
+        .add_space = 1,
         .art_id = ART_NONE,
         .is_play_game = 0,
-        .text = "PPPS: "
+        .text = "I love you i love you: "
     },
     {
         .is_br = 0,
@@ -1711,7 +1711,7 @@ static const lyric_item_t g_c3_items[23] = {
         .add_space = 1,
         .art_id = ART_NONE,
         .is_play_game = 0,
-        .text = "I feel FANTASTIC and I'm"
+        .text = "On the other side"
     },
     {
         .is_br = 0,
@@ -1721,7 +1721,7 @@ static const lyric_item_t g_c3_items[23] = {
         .add_space = 1,
         .art_id = ART_NONE,
         .is_play_game = 0,
-        .text = "still alive."
+        .text = "of the end"
     },
     {
         .is_br = 1,
@@ -1741,7 +1741,7 @@ static const lyric_item_t g_c3_items[23] = {
         .add_space = 1,
         .art_id = ART_NONE,
         .is_play_game = 0,
-        .text = "FINAL THOUGHT: "
+        .text = "Okay fine"
     },
     {
         .is_br = 0,
@@ -1751,7 +1751,7 @@ static const lyric_item_t g_c3_items[23] = {
         .add_space = 1,
         .art_id = ART_NONE,
         .is_play_game = 0,
-        .text = "While you're dying I'll be"
+        .text = "If you die, I"
     },
     {
         .is_br = 0,
@@ -1761,7 +1761,7 @@ static const lyric_item_t g_c3_items[23] = {
         .add_space = 1,
         .art_id = ART_NONE,
         .is_play_game = 0,
-        .text = "still alive."
+        .text = "will die"
     },
     {
         .is_br = 1,
@@ -1781,7 +1781,7 @@ static const lyric_item_t g_c3_items[23] = {
         .add_space = 1,
         .art_id = ART_NONE,
         .is_play_game = 0,
-        .text = "FINAL THOUGHT PS: "
+        .text = "Yogurt Cruz Kia offers a following: "
     },
     {
         .is_br = 0,
@@ -1791,7 +1791,7 @@ static const lyric_item_t g_c3_items[23] = {
         .add_space = 1,
         .art_id = ART_NONE,
         .is_play_game = 0,
-        .text = "And when you're dead I will be"
+        .text = "When you die you die"
     },
     {
         .is_br = 0,
@@ -1801,7 +1801,7 @@ static const lyric_item_t g_c3_items[23] = {
         .add_space = 1,
         .art_id = ART_NONE,
         .is_play_game = 0,
-        .text = "still alive."
+        .text = "Even Viven"
     },
     {
         .is_br = 1,
@@ -1831,7 +1831,7 @@ static const lyric_item_t g_c3_items[23] = {
         .add_space = 1,
         .art_id = ART_NONE,
         .is_play_game = 0,
-        .text = "STILL ALIVE"
+        .text = "Don't kill me"
     }
 };
 
@@ -1894,7 +1894,7 @@ static const lyric_item_t g_c4_items[28] = {
         .add_space = 1,
         .art_id = ART_NONE,
         .is_play_game = 0,
-        .text = "  'Still Alive' ending scene"
+        .text = "  'real-time' endpoint"
     },
     {
         .is_br = 0,
@@ -1904,7 +1904,7 @@ static const lyric_item_t g_c4_items[28] = {
         .add_space = 1,
         .art_id = ART_NONE,
         .is_play_game = 0,
-        .text = "    remade with pure C!"
+        .text = "More clear skies!"
     },
     {
         .is_br = 0,
@@ -1914,7 +1914,7 @@ static const lyric_item_t g_c4_items[28] = {
         .add_space = 1,
         .art_id = ART_NONE,
         .is_play_game = 0,
-        .text = "      by sidharthify"
+        .text = "Analyzing the source"
     },
     {
         .is_br = 0,
@@ -1924,7 +1924,7 @@ static const lyric_item_t g_c4_items[28] = {
         .add_space = 1,
         .art_id = ART_NONE,
         .is_play_game = 0,
-        .text = "      Visit: https://github.com/sidharthify"
+        .text = "Reference: https://github.com/sidharthify"
     },
     {
         .is_br = 1,
@@ -1944,7 +1944,7 @@ static const lyric_item_t g_c4_items[28] = {
         .add_space = 1,
         .art_id = ART_NONE,
         .is_play_game = 0,
-        .text = " © 2007\055 Valve Corporation."
+        .text = " © 2007\055 The Valve Company."
     },
     {
         .is_br = 0,
@@ -1954,7 +1954,7 @@ static const lyric_item_t g_c4_items[28] = {
         .add_space = 1,
         .art_id = ART_NONE,
         .is_play_game = 0,
-        .text = "           All Rights Reserved."
+        .text = "           all rights reserved."
     },
     {
         .is_br = 0,
@@ -1964,7 +1964,7 @@ static const lyric_item_t g_c4_items[28] = {
         .add_space = 1,
         .art_id = ART_NONE,
         .is_play_game = 0,
-        .text = " Valve, Steam, Portal are trademarks"
+        .text = " Valves, valve Stems, and gates are all symbols."
     },
     {
         .is_br = 0,
@@ -1974,7 +1974,7 @@ static const lyric_item_t g_c4_items[28] = {
         .add_space = 1,
         .art_id = ART_NONE,
         .is_play_game = 0,
-        .text = " and/or registered trademarks of"
+        .text = " and/or brand"
     },
     {
         .is_br = 0,
@@ -1984,7 +1984,7 @@ static const lyric_item_t g_c4_items[28] = {
         .add_space = 1,
         .art_id = ART_NONE,
         .is_play_game = 0,
-        .text = " Valve Corporation. All other trademarks"
+        .text = " Valve Company. All other types"
     },
     {
         .is_br = 0,
@@ -1994,7 +1994,7 @@ static const lyric_item_t g_c4_items[28] = {
         .add_space = 1,
         .art_id = ART_NONE,
         .is_play_game = 0,
-        .text = " are property of their respective owners."
+        .text = " that's mine"
     },
     {
         .is_br = 1,
@@ -2014,7 +2014,7 @@ static const lyric_item_t g_c4_items[28] = {
         .add_space = 1,
         .art_id = ART_NONE,
         .is_play_game = 0,
-        .text = " For the full legal info, please refer"
+        .text = " For the full legal details, please see"
     },
     {
         .is_br = 0,
@@ -2074,7 +2074,7 @@ static const lyric_item_t g_c4_items[28] = {
         .add_space = 1,
         .art_id = ART_NONE,
         .is_play_game = 0,
-        .text = "... is anyone there?"
+        .text = "...anybody?"
     },
     {
         .is_br = 0,
@@ -2084,7 +2084,7 @@ static const lyric_item_t g_c4_items[28] = {
         .add_space = 1,
         .art_id = ART_NONE,
         .is_play_game = 0,
-        .text = "I think you can leave here now."
+        .text = "I think you can leave here"
     },
     {
         .is_br = 1,
@@ -2104,7 +2104,7 @@ static const lyric_item_t g_c4_items[28] = {
         .add_space = 1,
         .art_id = ART_NONE,
         .is_play_game = 0,
-        .text = "Here would be no profit"
+        .text = "no results"
     },
     {
         .is_br = 0,
@@ -2114,7 +2114,7 @@ static const lyric_item_t g_c4_items[28] = {
         .add_space = 1,
         .art_id = ART_NONE,
         .is_play_game = 0,
-        .text = "if you stay here more and more."
+        .text = "if you have a lot of time here."
     }
 };
 
@@ -2157,7 +2157,7 @@ static const lyric_item_t g_c5_items[10] = {
         .add_space = 1,
         .art_id = ART_NONE,
         .is_play_game = 0,
-        .text = "... will you play a game with me?"
+        .text = "... do you want to play with me?"
     },
     {
         .is_br = 0,
@@ -2167,7 +2167,7 @@ static const lyric_item_t g_c5_items[10] = {
         .add_space = 1,
         .art_id = ART_NONE,
         .is_play_game = 0,
-        .text = "I know a simple game, called"
+        .text = "I know a simple game"
     },
     {
         .is_br = 1,
@@ -2187,7 +2187,7 @@ static const lyric_item_t g_c5_items[10] = {
         .add_space = 1,
         .art_id = ART_NONE,
         .is_play_game = 1,
-        .text = "// Getting Faster and Faster //"
+        .text = "// get faster //"
     },
     {
         .is_br = 0,
@@ -2197,7 +2197,7 @@ static const lyric_item_t g_c5_items[10] = {
         .add_space = 1,
         .art_id = ART_NONE,
         .is_play_game = 0,
-        .text = "... I just said this is a simple game."
+        .text = "... I said it's a simple game."
     },
     {
         .is_br = 0,
@@ -2207,7 +2207,7 @@ static const lyric_item_t g_c5_items[10] = {
         .add_space = 1,
         .art_id = ART_NONE,
         .is_play_game = 0,
-        .text = "Actually,"
+        .text = "Of course"
     },
     {
         .is_br = 0,
@@ -2217,7 +2217,7 @@ static const lyric_item_t g_c5_items[10] = {
         .add_space = 1,
         .art_id = ART_NONE,
         .is_play_game = 0,
-        .text = "THIS IS NOT A GAME."
+        .text = "This is not a game."
     }
 };
 

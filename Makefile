@@ -1,6 +1,6 @@
 CC ?= gcc
 CFLAGS ?= -O2 -Wall -Wextra
-TARGET = stillalive
+TARGET = stillalive-gte
 SRCS = stillalive.c stillalive_data.h
 
 ifeq ($(OS),Windows_NT)

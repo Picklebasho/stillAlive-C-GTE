@@ -1,10 +1,10 @@
-# stillalive c
+# stillalive c, Google Translated Edition!
 
 <p align="center">
   <img src="res/ss/ss.png" alt="Screenshot 1" width="900" style="border-radius:26px;"/>
 </p>
 
-A pure C terminal recreation of the Portal end credits sequence.
+A pure C terminal recreation of the Portal end credits sequence, it was google translated.
 
 it runs inside standard terminal emulators, reproducing the aperture science terminal aesthetic with character typing, scrolling credits, and ascii art synchronized to the track.
 
@@ -12,11 +12,13 @@ it runs inside standard terminal emulators, reproducing the aperture science ter
 * clean terminal handling with alternate screen buffer and artifact free resizing
 * lightweight audio playback with automatic fallback across pw play, play, ffplay, mpv, and aplay
 * interactive controls to pause, resume, restart, and cycle scaling modes on the fly
+* Stupidity at maximum
 
 ## credits and inspiration
 
 * original song and portal game by valve corporation, written by jonathan coulton, performed by ellen mclain
 * inspired by the web recreation still alive web by sd skykloud
+* Thanks to the people behind Portal: Google Translated Edition
 
 ## requirements
 
@@ -27,42 +29,40 @@ it runs inside standard terminal emulators, reproducing the aperture science ter
 
 the audio tracks are included inside the res/song directory.
 
-## building
+## usage (linux tested but should work on win)
 
-compile with make:
+Clone the repo:
+
+```bash
+git clone https://github.com/Picklebasho/stillAlive-C-GTE
+```
+
+Go into it:
+
+```bash
+cd ./stillAlive-C-GTE
+```
+
+compile it with make:
 
 ```bash
 make
 ```
 
-to clean:
+run:
 
 ```bash
-make clean
-```
-
-## usage
-
-run the binary directly:
-
-```bash
-./stillalive
-```
-
-or via make:
-
-```bash
-make run
+./stillalive-gte
 ```
 
 ### options
 
-* `./stillalive autoplay` : skips the boot screen and starts immediately
-* `./stillalive silent` : runs the terminal animation without audio playback
-* `./stillalive start=25000` : jumps to a specific timestamp in milliseconds
-* `./stillalive aspect` : fits the terminal window using authentic 4:3 proportions (default)
-* `./stillalive fill` : expands the boxes to fill the entire window dimensions
-* `./stillalive classic` : uses the fixed 98x38 character box
+* `./stillalive-gte autoplay` : skips the boot screen and starts immediately
+* `./stillalive-gte silent` : runs the terminal animation without audio playback
+* `./stillalive-gte start=25000` : jumps to a specific timestamp in milliseconds
+* `./stillalive-gte aspect` : fits the terminal window using authentic 4:3 proportions (default)
+* `./stillalive-gte fill` : expands the boxes to fill the entire window dimensions
+* `./stillalive-gte classic` : uses the fixed 98x38 character box
 
 ### controls
 
