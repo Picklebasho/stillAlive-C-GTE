@@ -43,6 +43,12 @@ Go into it:
 cd ./stillAlive-C-GTE
 ```
 
+clean it with make:
+
+```bash
+make clean
+```
+
 compile it with make:
 
 ```bash
